@@ -1,3 +1,2 @@
-administrator
 LRogov_admin@external.plat.form
 external\LRogov_admin
