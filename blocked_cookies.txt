@@ -1,3 +1,2 @@
-test@local.test
 LRogov_admin@external.plat.form
 external\LRogov_admin
